@@ -32,7 +32,7 @@ public class CarServiceImpl implements CarService{
 
     @Override
     public List<Car> carsGet(List<Car> cars, int number) {
-        List<Car> carsNeeded = cars.subList(0, Math.min(number, cars.size()));
-        return carsNeeded;
+        List<Car> ourCars = cars.subList(0, Math.min(number, cars.size()));
+        return ourCars;
     }
 }
