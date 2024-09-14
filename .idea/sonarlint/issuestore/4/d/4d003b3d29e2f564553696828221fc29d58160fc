@@ -1,0 +1,10 @@
+
+ª
+java:S1488#"bImmediately return this expression instead of assigning it to the temporary variable "carsNeeded".(Î¨­ƒùÿÿÿÿ8¦”«’Ÿ2J$5dd6b394-13b5-4232-9bd0-1be550761fff
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ·šùÿÿÿÿ8¨”«’Ÿ2J$7a776ded-56a9-40ff-8c5d-c8dbe1a6f442
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾˜ÖÓ8®”«’Ÿ2J$e70e6a79-94c1-4226-a17a-6e3fae12aa8c
+¡
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8¶”«’Ÿ2J$2723c305-da9b-4f71-aa60-acfff7e02c2e
+f
+java:S1128"Remove this duplicated import.(°Î³üÿÿÿÿ8öÓÔ’Ÿ2J$1d20126c-999d-4b5d-bd21-ec7c4d934ede
